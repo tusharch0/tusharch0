@@ -5,4 +5,4 @@
 ## Find me around the web 🌎:
 - Follow me on <a href="https://www.facebook.com/tusharch0">Facebook</a> and <a href="https://twitter.com/tusharch0">twitter</a> 📹 ✍
 - Hire me on <a href="https://www.linkedin.com/in/tusharch0/">LinkedIn</a> 💼
-- More About me <a href="http://tusharch0.github.io">tusharch0.github.io</a> 👨‍💻
+- More About me <a href="https://tusharch0.github.io">tusharch0.github.io</a> 👨‍💻
