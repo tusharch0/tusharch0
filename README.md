@@ -1,4 +1,4 @@
-# Hi, I'm Tushar Choudhary 
+# Hi, I'm Tushar Choudhary <img src="https://github.com/tusharch0/tusharch0/blob/master/hi.png" width="27px">
 
 <img src="https://github.com/tusharch0/tusharch0/blob/master/intro.jpg" alt="Tushar Choudhary">
 
